@@ -1,4 +1,5 @@
 <?php
+
 namespace Planfox\Component\Support\Traits;
 
 use Closure;
